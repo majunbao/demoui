@@ -2,11 +2,10 @@
 
 ## Overview
 
-* My Awesome API
+* [Introduction](README.md)
+* [My Awesome API](my-awesome-api.md)
 
-Methods
+---
 
 * [Defining Methods](methods.md)
-
-
 
